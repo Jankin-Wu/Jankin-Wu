@@ -1,11 +1,11 @@
 ## Hi there 👋
-I am currently contributing code to [fntv-client-multiplatform](https://github.com/Jankin-Wu/fntv-client-multiplatform)
+I'm currently contributing code to [fntv-client-multiplatform](https://github.com/Jankin-Wu/fntv-client-multiplatform)
 
 😆 The number of visits to the homepage：
 
 [![](https://count.getloli.com/get/@Jankin-Wu.github.readme)](https://count.getloli.com/)
 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jankin-Wu&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=calm_pink&locale=en&bg_color=00000000" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jankin-Wu&hide_border=true&layout=compact&theme=calm_pink&locale=en&bg_color=00000000" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jankin-Wu&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=solarized-light&locale=en&bg_color=00000000" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jankin-Wu&hide_border=true&layout=compact&theme=solarized-light&locale=en&bg_color=00000000" />
 <!--
 **Jankin-Wu/Jankin-Wu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
