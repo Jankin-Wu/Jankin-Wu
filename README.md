@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently contributing code to [fntv-client-multiplatform](https://github.com/Jankin-Wu/fntv-client-multiplatform)
+I'm currently contributing code to [fntv-client-multiplatform](https://github.com/openfnnas/fntv-client-multiplatform)
 
 😆 The number of visits to the homepage：
 
