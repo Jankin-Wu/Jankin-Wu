@@ -9,7 +9,7 @@ I'm familiar with the following technologies:
 
 😆 The number of visits to the homepage：
 
-[![](https://count.getloli.com/get/@Jankin-Wu.github.readme)](https://count.getloli.com/)
+[![](https://count.getloli.com/get/@Jankin-Wu.github.readme?theme=asoul)](https://count.getloli.com/)
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=Jankin-Wu&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=solarized-dark&locale=en&bg_color=00000000" /><img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jankin-Wu&hide_border=true&layout=compact&theme=solarized-dark&locale=en&bg_color=00000000" />
 <!--
