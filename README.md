@@ -1,4 +1,4 @@
-## Hi there 👋
+## *Hi there* 👋
 I'm currently developing [fntv-client-multiplatform](https://github.com/FNOSP/fntv-client-multiplatform)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FNOSP&repo=fntv-client-multiplatform&theme=solarized-dark&bg_color=00000000)](https://github.com/FNOSP/fntv-client-multiplatform)
