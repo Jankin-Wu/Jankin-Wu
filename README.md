@@ -5,7 +5,7 @@ I'm currently developing [fntv-client-multiplatform](https://github.com/FNOSP/fn
 
 I'm familiar with the following technologies:
  
- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white)](http://kotlinlang.org) ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white) [![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?&logo=kotlin&logoColor=white)](http://kotlinlang.org) ![Spring Boot](https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Compose%20Multiplatform-6b57ff?logo=Jetpack+Compose&logoColor=FFFFFF) ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 😆 The number of visits to the homepage：
 
